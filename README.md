@@ -1,4 +1,4 @@
-### Hello! I'm Hannah 👩‍💻🧬
+### Hello! I'm Hannah 💻🧬
 
 I'm a postdoctoral researcher at Queen Mary University of London. My work focuses on deep phenotyping of multi-modal cardiovascular imaging and electrocardiogram data in large-scale diverse datasets, using machine learning and bioinformatic analysis.
 
