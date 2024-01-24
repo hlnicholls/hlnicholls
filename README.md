@@ -8,10 +8,6 @@ I'm a postdoctoral researcher at Queen Mary University of London. My work focuse
 
 *Genomic analysis tools: PLINK, VEP, Hail, bedtools, FUMA, SuSiE, CARMA, enrichr, gprofiler*
 
-## Tools I'm learning 
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
 ## Links
 <img src="https://github.com/hlnicholls/hlnicholls/assets/53306752/89b1a457-4f7e-41fb-86fa-737ed7004b33" width="25" height="25">  [huggingface](https://huggingface.co/hlnicholls)  
 <img src="https://github.com/hlnicholls/hlnicholls/assets/53306752/072a0bf2-9dcd-452f-a2c4-e7f2e16801c9" width="25" height="25"> [Google Scholar](https://scholar.google.com/citations?user=HjyeP2QAAAAJ&hl=en&oi=sra)
