@@ -6,7 +6,7 @@
 <img src="https://github.com/hlnicholls/hlnicholls/assets/53306752/89b1a457-4f7e-41fb-86fa-737ed7004b33" width="25" height="25">  [huggingface](https://huggingface.co/hlnicholls)  
 <img src="https://github.com/hlnicholls/hlnicholls/assets/53306752/072a0bf2-9dcd-452f-a2c4-e7f2e16801c9" width="25" height="25"> [Google Scholar](https://scholar.google.com/citations?user=HjyeP2QAAAAJ&hl=en&oi=sra)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hlnicholls&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hannah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlnicholls&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hlnicholls&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hannah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlnicholls&layout=compact&theme=buefy&hide_border=true&cache_seconds=10" /></a> |
 | ------------- | ------------- |
 
 
