@@ -5,9 +5,5 @@
 <img src="https://github.com/hlnicholls/hlnicholls/assets/53306752/072a0bf2-9dcd-452f-a2c4-e7f2e16801c9" width="25" height="25"> [Google Scholar](https://scholar.google.com/citations?user=HjyeP2QAAAAJ&hl=en&oi=sra)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlnicholls&layout=compact)
-
-
-
 
 
